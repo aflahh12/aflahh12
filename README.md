@@ -17,10 +17,6 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 - Foundation at Universiti Teknologi Malaysia(UTM) SPACE (2022-2023)
 - Bachelor of Computer Science (Data Engineering) at UTM (2023-2027)
 
-### Socials:
-https://www.linkedin.com/in/nabil-aflah-273b37299/
-https://github.com/aflahh12
-
 ### Work experience:
 - assistant at printing shop
 
