@@ -17,9 +17,6 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 - Foundation at Universiti Teknologi Malaysia(UTM) SPACE (2022-2023)
 - Bachelor of Computer Science (Data Engineering) at UTM (2023-2027)
 
-### Work experience:
-- assistant at printing shop
-
 ### Projects:
 ![Screenshot 2023-12-27 154240](https://github.com/aflahh12/aflahh12/assets/147508136/d462fc37-cf90-48a1-aafc-437f176479d1)
 ![Screenshot 2023-12-27 154121](https://github.com/aflahh12/aflahh12/assets/147508136/ef253314-dd89-413f-be60-fe961cc90123)
