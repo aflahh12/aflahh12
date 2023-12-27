@@ -17,10 +17,12 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 - Foundation at Universiti Teknologi Malaysia(UTM) SPACE (2022-2023)
 - Bachelor of Computer Science (Data Engineering) at UTM (2023-2027)
 
-### Projects:
-![Screenshot 2023-12-27 154240](https://github.com/aflahh12/aflahh12/assets/147508136/d462fc37-cf90-48a1-aafc-437f176479d1)
-![Screenshot 2023-12-27 154121](https://github.com/aflahh12/aflahh12/assets/147508136/ef253314-dd89-413f-be60-fe961cc90123)
+### Social media:
+<a href="https://www.linkedin.com/in/nabil-aflah-273b37299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aflahboo_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aflahboo_" height="30" width="40" /></a>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aflahh12&theme=dark)](https://git.io/streak-stats)
 <!--
 **aflahh12/aflahh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
