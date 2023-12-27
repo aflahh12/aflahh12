@@ -5,6 +5,7 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 
 ### About me🧐:
 - 🌺 Name: Nabil Aflah Boo Binti Mohd Yosuf Boo Yong Chong
+- 🏠 I'm from Johor
 - 🎂 03/12/2004
 - ⚡ Hobby: playing badminton and food hunting🥨🥐
 - 🌱 I’m currently learning C++
