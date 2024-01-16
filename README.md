@@ -12,10 +12,18 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 - 📫 Any inquiries can reach me at nabilaflahboo@graduate.utm.my
 
 ### Education🏫:
-- SJK(C) CHEE TONG (2011-2016)
-- SMK TAMAN MEGAH RIA (2017-2021)
-- Foundation at Universiti Teknologi Malaysia(UTM) SPACE (2022-2023)
-- Bachelor of Computer Science (Data Engineering) at UTM (2023-2027)
+- SJK(C) CHEE TONG (2011-2016) </p>
+- SMK TAMAN MEGAH RIA (2017-2021) </p>
+- Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) </p>
+- Bachelor of Computer Science (Data Engineering) at UTM (2023-present) </p>
+
+### Positions:
+- librarian (2019-2021) </p>
+- vice secretary in Badminton club (2020-2021) </p>
+
+### Skills:
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 
 ### Social media:
 <a href="https://www.linkedin.com/in/nabil-aflah-273b37299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
