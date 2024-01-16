@@ -29,6 +29,7 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 <a href="https://www.linkedin.com/in/nabil-aflah-273b37299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aflahboo_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aflahboo_" height="30" width="40" /></a>
 
+### Github Status
 ![aflahh12's Stats](https://github-readme-stats.vercel.app/api?username=aflahh12&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
