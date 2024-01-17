@@ -9,7 +9,7 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 - 🎂 03/12/2004
 - ⚡ Hobby: playing badminton and food hunting🥨🥐
 - 🌱 I’m currently learning C++
-- 📫 Any inquiries can reach me at nabilaflahboo@graduate.utm.my
+- 📫 Any inquiries can reach me at nabilaflah0312@gmail.com
 
 ## Education🏫:
 - SJK(C) CHEE TONG (2011-2016) </p>
