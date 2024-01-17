@@ -47,9 +47,9 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 <a href="https://www.instagram.com/aflahboo_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aflahboo_" height="30" width="40" /></a>
 
 ## Github Status
-![aflahh12's Stats](https://github-readme-stats.vercel.app/api?username=aflahh12&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-![aflahh12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aflahh12&theme=synthwave&hide_border=true)
-![aflahh12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aflahh12&theme=synthwave&show_icons=true&hide_border=true&layout=compact)
+![aflahh12's Stats](https://github-readme-stats.vercel.app/api?username=aflahh12&theme=synthwave&show_icons=true&hide_border=true&count_private=true) </p>
+![aflahh12's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aflahh12&theme=synthwave&hide_border=true) </p>
+![aflahh12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aflahh12&theme=synthwave&show_icons=true&hide_border=true&layout=compact) </p>
 
 
 <!--
