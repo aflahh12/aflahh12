@@ -24,6 +24,7 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 ## Skills:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.java.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<img src = "IMG/Deeds.jpg" width = "50" height = "50">
 
 ## Awards & Certificates🏆:
 - Top 10 dalam tingkatan (2017-2021)
