@@ -27,6 +27,9 @@ I'm 1st year student, and now currently is taking Bachelor of Computer Science i
 - Technology & Information Systems
 - Integrity & Anti-corruption
 
+## Projects:
+- Academic visit to UTM Digital https://drive.google.com/drive/folders/1pRG97eyBsRVL27Obc5asr6fLwTz8mRiI
+
 ## Positions:
 - librarian (2019-2021) </p>
 - vice secretary in Badminton club (2020-2021) </p>
