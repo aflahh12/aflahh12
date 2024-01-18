@@ -17,6 +17,16 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) </p>
 - University Teknologi Malaysia - Bachelor of Computer Science (Data Engineering) (2023-present) </p>
 
+## Positions:
+- Librarian (2019-2021) </p>
+- Vice secretary in Badminton club (2020-2021) </p>
+
+## Awards & Certificates🏆:
+- Top 10 dalam tingkatan (2017-2021)
+- Pelajar cemerlang PT3 (2019)
+- Pelajar cemerlang SPM (2021)
+- Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
+
 ## Courses (YEAR 1)
 - Digital Logic
 - Discrete Structure
@@ -32,15 +42,6 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) <a>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) </p>
 
-## Positions:
-- Librarian (2019-2021) </p>
-- Vice secretary in Badminton club (2020-2021) </p>
-
-## Awards & Certificates🏆:
-- Top 10 dalam tingkatan (2017-2021)
-- Pelajar cemerlang PT3 (2019)
-- Pelajar cemerlang SPM (2021)
-- Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/nabil-aflah-273b37299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
