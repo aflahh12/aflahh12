@@ -17,7 +17,7 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) </p>
 - University Teknologi Malaysia - Bachelor of Computer Science (Data Engineering) (2023-present) </p>
 
-## Positions:
+## Positions👩‍💼:
 - Librarian (2019-2021) </p>
 - Vice secretary in Badminton club (2020-2021) </p>
 
