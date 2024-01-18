@@ -38,6 +38,7 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Top 10 dalam tingkatan (2017-2021)
 - Pelajar cemerlang PT3 (2019)
 - Pelajar cemerlang SPM (2021)
+- Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
 
 ## Social media:
 <a href="https://www.linkedin.com/in/nabil-aflah-273b37299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
