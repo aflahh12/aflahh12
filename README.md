@@ -27,14 +27,14 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 ## e-Portfolio:
 - Here's my e-Portfolio https://aflahh12.github.io/
 
-## Positions:
-- librarian (2019-2021) </p>
-- vice secretary in Badminton club (2020-2021) </p>
-
 ## Skills:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a>
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) <a>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) </p>
+
+## Positions:
+- Librarian (2019-2021) </p>
+- Vice secretary in Badminton club (2020-2021) </p>
 
 ## Awards & Certificates🏆:
 - Top 10 dalam tingkatan (2017-2021)
