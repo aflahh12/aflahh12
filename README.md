@@ -28,7 +28,7 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
 
 ## Courses (YEAR 1)
-- Digital Logic
+- Digital Logic 
 - Discrete Structure
 - Programming Technique 1
 - Technology & Information Systems
