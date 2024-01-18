@@ -28,11 +28,11 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
 
 ## Courses (YEAR 1)
-- Digital Logic 
-- Discrete Structure
-- Programming Technique 1
-- Technology & Information Systems
-- Integrity & Anti-corruption
+- SECR1013 [**Digital Logic**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Digital%20Logic)
+- SECI1013 [**Discrete Structure**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Discrete%20Structure)
+- SECJ1013 [**Programming Technique 1**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Programming%20Technique%201)
+- SECP1513 [**Technology & Information Systems**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Technology%20%26%20Information%20Systems)
+- ULRS1032 [**Integrity & Anti-corruption**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Integrity%20%26%20Anti-corruption)
 
 ## e-Portfolio:
 - Here's my e-Portfolio https://aflahh12.github.io/
