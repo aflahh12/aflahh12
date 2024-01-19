@@ -1,7 +1,7 @@
 ## Hi👋! I'm Aflah
 ![Welcome Beige GIF - Welcome Beige Brown - Discover   Share GIFs](https://github.com/aflahh12/aflahh12/assets/147508136/9fc0048e-1289-4ec0-bbe6-87f75c7df055)
 
-I'm a 1st year student, and now currently is taking Bachelor of Computer Science in Universiti Teknologi Malaysia (UTM)
+I'm a 1st year student, and now currently is taking Bachelor of Computer Science (Data Engineering) in Universiti Teknologi Malaysia (UTM)
 
 ## About me🧐:
 - 🌺 Name: Nabil Aflah Boo Binti Mohd Yosuf Boo Yong Chong
