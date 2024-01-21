@@ -9,6 +9,7 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - 🎂 03/12/2004
 - ⚡ Hobby: playing badminton and food hunting🥨🥐
 - 🌱 I’m currently learning C++
+- 💬 Malay(ms) English(en) 中文(zh) 한국어(ko)
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com </p>
 
 ## Education🏫:
