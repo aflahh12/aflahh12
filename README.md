@@ -30,10 +30,10 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 
 ## Courses (YEAR 1)
 - SECR1013 [**Digital Logic**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Digital%20Logic)
-- SECI1013 [**Discrete Structure**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Discrete%20Structure)
-- SECJ1013 [**Programming Technique 1**](https://github.com/aflahh12/Year-1-SEM-1/tree/a6ffa27d419ea56eec01560ce759c49c2648171d/Programming%20Technique%201)
-- SECP1513 [**Technology & Information Systems**](https://github.com/aflahh12/Year-1-SEM-1/tree/a1b74a8daefd840341046c0d570e90dd63cec9ba/Technology%20%26%20Information%20Systems)
-- ULRS1032 [**Integrity & Anti-corruption**](https://github.com/aflahh12/Year-1-SEM-1/tree/07d8804c94a0b5e59c6e21a7cb6506df00d4f806/Integrity%20%26%20Anti-corruption)
+- SECI1013 [**Discrete Structure**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Discrete%20Structure)
+- SECJ1013 [**Programming Technique 1**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Programming%20Technique%201)
+- SECP1513 [**Technology & Information Systems**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Technology%20%26%20Information%20System)
+- ULRS1032 [**Integrity & Anti-corruption**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Integrity%20%26%20Anti-corruption)
 
 ## e-Portfolio:
 - Here's my e-Portfolio https://aflahh12.github.io/
