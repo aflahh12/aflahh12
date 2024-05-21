@@ -11,7 +11,7 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - 🌱 I’m currently learning C++
 - 💬 Malay(ms) English(en) 中文(zh) 한국어(ko)
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com </p>
-
+- 🎓 Visit my [**website**](https://aflahh12.github.io/)
 ## Education🏫:
 - SJK(C) CHEE TONG (2011-2016) </p>
 - SMK TAMAN MEGAH RIA (2017-2021) </p>
@@ -37,9 +37,6 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 | SECP1513 [**Technology & Information Systems**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Technology%20%26%20Information%20System) | SECR1033 [**Computer Organization & Architecture**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/Computer%20Organization%20%26%20Architecture)|
 | ULRS1032 [**Integrity & Anti-corruption**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Integrity%20%26%20Anti-corruption) | SECV2113 [**Human Computer Interaction**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/%20Human%20Computer%20Interaction)|
 |  |ULRS1182 [**Appreciation Of Ethics & Civilizations**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/Appreciation%20Of%20Ethics%20%26%20Civilizations)|
-
-## e-Portfolio:
-- Here's my e-Portfolio https://aflahh12.github.io/
 
 ## Skills:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a>
