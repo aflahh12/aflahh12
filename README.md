@@ -40,8 +40,8 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 
 ## Skills:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a>
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) <a>
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) </p>
+ <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" alt="html" /></a>
+ <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" alt="css" /></a>
 
 
 ## Connect with me
