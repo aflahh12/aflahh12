@@ -23,10 +23,9 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Vice secretary in Badminton club (2020-2021) </p>
 
 ## Awards & Certificates🏆:
-- Top 10 dalam tingkatan (2017-2021)
-- Pelajar cemerlang PT3 (2019)
-- Pelajar cemerlang SPM (2021)
 - Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
+- Participate in ASEAN Data Explorers 2024
+- Place third in Earth Day'24 Poster Competition 
 
 ## Courses (YEAR 1)
 | SEM 1 | SEM 2|
