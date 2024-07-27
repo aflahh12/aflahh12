@@ -22,9 +22,9 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 - Librarian (2019-2021) </p>
 - Vice secretary in Badminton club (2020-2021) </p>
 
-## Awards & Certificates🏆:
+## Achievements🏆:
 - Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
-- Participate in ASEAN Data Explorers 2024
+- Participate in ASEAN Data Explorers Enablement Session 2024
 - Place third in Earth Day'24 Poster Competition 
 
 ## Courses (YEAR 1)
