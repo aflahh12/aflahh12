@@ -25,8 +25,9 @@ I'm a 1st year student, and now currently is taking Bachelor of Computer Science
 ## Achievements🏆:
 - Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
 - Participate in ASEAN Data Explorers Enablement Session 2024
-- Place third in Earth Day'24 Poster Competition 
-
+- Place third in Earth Day'24 Poster Competition
+- Volunteer of YES! Rock the School Mega Johor Edition 2024
+  
 ## Courses (YEAR 1)
 | SEM 1 | SEM 2|
 |--------|-------|
