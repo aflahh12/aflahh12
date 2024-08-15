@@ -30,16 +30,6 @@ I'm intrigued about leveraging technology to address real-world issues and trans
 - Place third in Earth Day '24 Poster Competition (UTM)
 - Participate in Kem Pembentukan JKM KTDI Sesi 24/25 (UTM)
 - Volunteer of YES! Rock the School Mega Johor Edition 2024
-  
-## Courses (YEAR 1)
-| SEM 1 | SEM 2|
-|--------|-------|
-| SECR1013 [**Digital Logic**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Digital%20Logic) | SECI1143 [**Probability & Statistical Data Analysis**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/Probability%20%26%20Statistical%20Data%20Analysis)|
-| SECI1013 [**Discrete Structure**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Discrete%20Structure) | SECJ1023 [**Programming Technique II**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/Programming%20Technique%20II)|
-| SECJ1013 [**Programming Technique 1**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Programming%20Technique%201) | SECP2613 [**System Analysis & Design**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/System%20Analysis%20%26%20Design) |
-| SECP1513 [**Technology & Information Systems**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Technology%20%26%20Information%20System) | SECR1033 [**Computer Organization & Architecture**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/Computer%20Organization%20%26%20Architecture)|
-| ULRS1032 [**Integrity & Anti-corruption**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%201/Integrity%20%26%20Anti-corruption) | SECV2113 [**Human Computer Interaction**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/%20Human%20Computer%20Interaction)|
-|  |ULRS1182 [**Appreciation Of Ethics & Civilizations**](https://github.com/aflahh12/Y1/tree/014998341c1139f44d297f20026216f945ef61f8/SEM%202/Appreciation%20Of%20Ethics%20%26%20Civilizations)|
 
 ## Skills:
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a>
