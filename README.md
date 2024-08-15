@@ -43,7 +43,7 @@ A dedicated undergraduate student pursuing Bachelor of Computer Science at Unive
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a>
  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40" alt="html" /></a>
  <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40" alt="css" /></a>
-
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/aflah-boo-273b37299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
