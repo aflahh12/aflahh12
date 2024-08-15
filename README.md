@@ -1,7 +1,9 @@
-## Hi👋! I'm Aflah
+<h1 align="center">Hi 👋, I'm Aflah</h1>
+<h3 align="center">A passionate Data Engineering student👩‍💻</h3>
+
 ![Welcome Beige GIF - Welcome Beige Brown - Discover   Share GIFs](https://github.com/aflahh12/aflahh12/assets/147508136/9fc0048e-1289-4ec0-bbe6-87f75c7df055)
 
-A dedicated undergraduate student pursuing Bachelor of Computer Science at University of Technology Malaysia (UTM). I'm intrigued about leveraging technology to address real-world issues and transforming complicated data into insights that can be put into practice. 
+I'm intrigued about leveraging technology to address real-world issues and transforming complicated data into insights that can be put into practice. 
 
 ## About me🧐:
 - 🌺 Name: Nabil Aflah Boo Binti Mohd Yosuf Boo Yong Chong
