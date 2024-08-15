@@ -1,13 +1,13 @@
 ## Hi👋! I'm Aflah
 ![Welcome Beige GIF - Welcome Beige Brown - Discover   Share GIFs](https://github.com/aflahh12/aflahh12/assets/147508136/9fc0048e-1289-4ec0-bbe6-87f75c7df055)
 
-I'm a 1st year student, and now currently is taking Bachelor of Computer Science in Universiti Teknologi Malaysia (UTM)
+A dedicated undergraduate student pursuing Bachelor of Computer Science at University of Technology Malaysia (UTM). I'm intrigued about leveraging technology to address real-world issues and transforming complicated data into insights that can be put into practice. 
 
 ## About me🧐:
 - 🌺 Name: Nabil Aflah Boo Binti Mohd Yosuf Boo Yong Chong
 - 🏠 I'm from Johor
 - 🎂 03/12/2004
-- ⚡ Hobby: playing badminton and food hunting🥨🥐
+- ⚡ Hobby: playing badminton and travel🌍
 - 🌱 I’m currently learning C++
 - 💬 Malay(ms) English(en) 中文(zh) 한국어(ko)
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com </p>
