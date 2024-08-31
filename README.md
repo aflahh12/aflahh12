@@ -11,12 +11,12 @@ I'm intrigued about leveraging technology to address real-world issues and trans
 - 🎂 03/12/2004
 - ⚡ Hobby: playing badminton and travel🌍
 - 🌱 I’m currently learning C++
-- 💬 Malay(ms) English(en) 中文(zh) 한국어(ko)
+- 💬 Malay(ms) English(en) 中文(zh) 
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com
 - 🎓 All of my projects are available at [**aflahh12**](https://aflahh12.github.io/)
 ## Education🏫:
 - SJK(C) CHEE TONG (2011-2016) </p>
-- SMK TAMAN MEGAH RIA (2017-2021) </p>
+- SMK TAMAN MEGAH RIA (2017-2022) </p>
 - Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) </p>
 - University Teknologi Malaysia - Bachelor of Computer Science (Data Engineering) (2023-present) </p>
 
