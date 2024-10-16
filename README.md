@@ -23,6 +23,7 @@ I'm intrigued about leveraging technology to address real-world issues and trans
 ## Positions👩‍💼:
 - Librarian (2019-2021) </p>
 - Vice secretary in Badminton club (2020-2021) </p>
+- Jawatankuasa Kolej Mahasiswa Kolej Tun Dr. Ismail 24/25 </p>
 
 ## Achievements🏆:
 - Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
