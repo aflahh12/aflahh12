@@ -13,7 +13,7 @@ I'm intrigued about leveraging technology to address real-world issues and trans
 - 🌱 I’m currently learning C++
 - 💬 Malay(ms) English(en) 中文(zh) 
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com
-- 🎓 All of my projects are available at [**aflahh12**](https://aflahh12.github.io/)
+- 🎓 All of my projects are available at [**aflahh12**](https://aflahh12.github.io/aflah-portfolio/)
 ## Education🏫:
 - Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) </p>
 - University Teknologi Malaysia - Bachelor of Computer Science (Data Engineering) (2023-present) </p>
