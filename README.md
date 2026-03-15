@@ -7,32 +7,30 @@ I'm intrigued about leveraging technology to address real-world issues and trans
 
 ## About me🧐:
 - 🌺 Name: Nabil Aflah Boo Binti Mohd Yosuf Boo Yong Chong
-- 🏠 I'm from Johor
-- 🎂 03/12/2004
-- ⚡ Hobby: playing badminton and travel🌍
-- 🌱 I’m currently learning C++
+- 🏠 Based in Johor
 - 💬 Malay(ms) English(en) 中文(zh) 
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com
 - 🎓 All of my projects are available at [**aflahh12**](https://aflahh12.github.io/aflah-portfolio/)
+
 ## Education🏫:
-- Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) </p>
-- University Teknologi Malaysia - Bachelor of Computer Science (Data Engineering) (2023-present) </p>
+- University Teknologi Malaysia - Bachelor of Computer Science (Data Engineering) with Honours (2023-present) | CGPA: 3.73, Semester 6/8 </p>
+- Pre-University at UTMSPACE JB - Foundation in Physical Science (2022-2023) | CGPA: 3.73, MUET: 3.5 </p>
 
-## Positions👩‍💼:
-- Librarian (2019-2021) </p>
-- Vice secretary in Badminton club (2020-2021) </p>
-- Jawatankuasa Kolej Pelajar Kolej Tun Dr. Ismail 24/25 </p>
-- Jawatankuasa Kolej Pelajar Kolej Tun Dr. Ismail 25/26 </p>
+## Leadership & Club Activities👩‍💼:
+- Jawatankuasa Kolej Pelajar Kolej Tun Dr. Ismail 25/26, Religious Committee Member </p>
+- Pontianak Odyssey Voyage 2026 (POV'26), Multimedia Unit, Indonesia
+- Jawatankuasa Kolej Pelajar Kolej Tun Dr. Ismail 24/25, Multimedia Committee Member </p>
+- Soul of Siam & Champa 2025 (SOSCA'25), PIC of Community, Thailand & Cambodia
+- Participate in Kem Pembentukan JKM KTDI Sesi 24/25, UTM (2024)
+- Volunteer of YES! Rock the School Mega Johor Edition 2024, UTM
 
-## Achievements🏆:
-- Participation in Kuiz Cabaran Minda Sihat(national level) (2021)
-- Participate in ASEAN Data Explorers Enablement Session 2024
-- Place third in Earth Day '24 Poster Competition (UTM)
-- Participate in Kem Pembentukan JKM KTDI Sesi 24/25 (UTM)
-- Volunteer of YES! Rock the School Mega Johor Edition 2024
+## Certifications / Licences🏆:
+- Microsoft Certified: Azure Data Fundamental </p>
+- ASEAN DATA Science Explorer 2024 - Participant </p>
+- SAP - Executing Basic ERP Processes with SAP S/4HANA </p>
 
 ## Language and Tools:
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ## Connect with me
 <a href="https://www.linkedin.com/in/aflah-boo-273b37299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabil-aflah-273b37299" height="30" width="40" /></a>
