@@ -16,10 +16,10 @@ I'm intrigued about leveraging technology to address real-world issues and trans
 
 ## Education🏫:
 **Universiti Teknologi Malaysia** </p>
-- *Bachelor of Computer Science (Data Engineering) with Honours* (2023-present) | CGPA: 3.73, Semester 6/8 </p>
+- *Bachelor of Computer Science (Data Engineering) with Honours* (2023-present) </p>
 
 **Pre-University at UTMSPACE JB** </p>
-- *Foundation in Physical Science* (2022-2023) | CGPA: 3.73, MUET: 3.5 </p>
+- *Foundation in Physical Science* (2022-2023) </p>
 
 ## Leadership & Club Activities👩‍💼:
 - Jawatankuasa Kolej Pelajar Kolej Tun Dr. Ismail 25/26, Religious Committee Member
