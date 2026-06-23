@@ -13,6 +13,7 @@ Third-year **Computer Science (Data Engineering)** student at Universiti Teknolo
 
 - 📫 Any inquiries can reach me at nabilaflah0312@gmail.com
 - 🎓 All of my projects are available at [aflahh12](https://aflahh12.github.io/aflah-portfolio/)
+- View my [academic project](https://github.com/aflahh12/UTM-Academic-Project)
 
 ---
 
