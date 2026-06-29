@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aflah Boo</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/aflahh12/aflahh12/assets/147508136/9fc0048e-1289-4ec0-bbe6-87f75c7df055" alt="welcome gif" width="600"/>
-</p>
-
-<h3 align="center">🚀 A passionate Data Engineering student</h3>
+</p> -->
+<h3 align="center">A passionate Data Engineering student👩‍💻</h3>
 
 ---
 
