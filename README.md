@@ -44,6 +44,9 @@ Data Analysis Programming · Database Programming · Software Development Techno
 
 - [**Microsoft Certified:** Azure Data Fundamental](https://www.credly.com/earner/earned/badge/3ec94e47-2c0d-4a7e-af1b-4ace200bf5c0)
 - [**Alteryx Designer Core Certification**](https://www.credly.com/badges/69edd448-87c1-40b6-90a4-b518329f95f1/public_url)
+- [**AWS Academy Graduate** - Cloud Foundations](https://www.credly.com/badges/376d0837-724e-4fe9-82e9-426aece2f7b3/public_url)
+- [**AWS Academy Graduate** - Cloud Developing](https://www.credly.com/badges/f18acb85-9e7c-4a83-8ed8-16e0d9fb24f8/public_url)
+- [**AWS Academy Graduate** - Cloud Data Pipeline Builder](https://www.credly.com/badges/adaaa307-133c-4cd3-b30c-71a67eaf29a9/public_url)
 
 ---
 
